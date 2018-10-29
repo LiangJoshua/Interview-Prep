@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ea9514-6d44-43d0-9da2-edd3a4497392" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Solutions/BestSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solutions/FirstSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/FirstSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solutions/WorstSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/WorstSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solutions/GaussSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solutions/BestSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solutions/BestSolution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +24,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="571" />
+          <entry key="JAVA" value="764" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="571" />
+          <entry key="java" value="764" />
         </counts>
       </usages-collector>
     </session>
@@ -66,11 +65,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Solutions/BestSolution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="60">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solutions/GaussSolution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -92,6 +100,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Solutions/FirstSolution.java" />
         <option value="$PROJECT_DIR$/src/Solutions/WorstSolution.java" />
+        <option value="$PROJECT_DIR$/src/Solutions/BestSolution.java" />
+        <option value="$PROJECT_DIR$/src/Solutions/GaussSolution.java" />
       </list>
     </option>
   </component>
@@ -213,8 +223,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solutions/BestSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solutions/GaussSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
