@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 /**
  * Time Complexity: O(n)
- * Space Complexity: O(
+ * Space Complexity: O(n)
  */
 public class FirstSolution {
 
