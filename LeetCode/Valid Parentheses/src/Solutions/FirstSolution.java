@@ -2,6 +2,10 @@ package Solutions;
 
 import java.util.*;
 
+/**
+ * Time Complexity: O(n)
+ * Space Complexity: O(n)
+ */
 public class FirstSolution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
